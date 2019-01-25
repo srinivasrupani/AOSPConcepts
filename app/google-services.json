@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "341703300092",
+    "firebase_url": "https://my-application-82454.firebaseio.com",
+    "project_id": "my-application-82454",
+    "storage_bucket": "my-application-82454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341703300092:android:636de835a594e9d9",
+        "android_client_info": {
+          "package_name": "com.example.smartron.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341703300092-oe3997cs6n6ie21qbarb6t6anee55dii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartron.myapplication",
+            "certificate_hash": "f227dc3eabca573dad7c36a7b071990c80aad8a1"
+          }
+        },
+        {
+          "client_id": "341703300092-js2kf760f0l763b6lrnqgvmju0vfho7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtxpex7cjUsFQG2ppNxlyEhcRzI2jQWKM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341703300092-js2kf760f0l763b6lrnqgvmju0vfho7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
